@@ -1,0 +1,14 @@
+{
+  "id": "18.34",
+  "label": "Eduardo's Office",
+  "type": "Room",
+  "map": "First Floor West",
+  "position": {
+    "x": 2,
+    "y": -12
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "id":"25.33",
+    "label":"Chiappe and Rhiner Labs Experimental Room",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":18,"y":-10},
+    "dimensions":{"x":5,"y":2}
+}

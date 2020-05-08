@@ -1,0 +1,8 @@
+{
+    "id":"19.27",
+    "label":"Macroscopic / Processing",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":14,"y":-30},
+    "dimensions":{"x":4,"y":2}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "G2.66",
+  "label": "Prep G2.66",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 0,
+    "y": -18
+  },
+  "dimensions": {
+    "x": 5,
+    "y": 2
+  }
+}

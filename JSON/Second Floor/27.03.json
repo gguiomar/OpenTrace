@@ -1,0 +1,8 @@
+{
+    "id":"27.03",
+    "label":"Corridor",
+    "type":"Access",
+    "map":"Second Floor",
+    "position":{"x":4,"y":-7},
+    "dimensions":{"x":2,"y":8}
+}

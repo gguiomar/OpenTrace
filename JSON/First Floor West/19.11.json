@@ -1,0 +1,8 @@
+{
+    "id":"19.11",
+    "label":"Histopathology",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":10,"y":-20},
+    "dimensions":{"x":2,"y":4}
+}

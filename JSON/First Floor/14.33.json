@@ -1,0 +1,14 @@
+{
+  "id": "14.33",
+  "label": "Glassware and Media Platform",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 30,
+    "y": -10
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 2
+  }
+}

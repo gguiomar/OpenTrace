@@ -1,0 +1,8 @@
+{
+    "id":"26.19",
+    "label":"Gel",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":14,"y":-15},
+    "dimensions":{"x":2,"y":2}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "G2.10",
+  "label": "Mens's Locker Room",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 39,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 5,
+    "y": 2
+  }
+}

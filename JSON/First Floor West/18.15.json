@@ -1,0 +1,14 @@
+{
+  "id": "18.15",
+  "label": "Corridor",
+  "type": "Access",
+  "map": "First Floor West",
+  "position": {
+    "x": 12,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 8
+  }
+}

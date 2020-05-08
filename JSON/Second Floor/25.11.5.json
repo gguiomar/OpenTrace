@@ -1,0 +1,14 @@
+{
+  "id": "25.11.5",
+  "label": "Orger Benches",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 22,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

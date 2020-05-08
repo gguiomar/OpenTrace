@@ -1,0 +1,8 @@
+{
+    "id":"18.45",
+    "label":"Emergency Freezer",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":8,"y":-15},
+    "dimensions":{"x":2,"y":5}
+}

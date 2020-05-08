@@ -1,0 +1,8 @@
+{
+    "id":"G2.27",
+    "label":"Storage G2.27",
+    "type":"Room",
+    "map":"Main Vivarium",
+    "position":{"x":17,"y":-16},
+    "dimensions":{"x":3,"y":2}
+}

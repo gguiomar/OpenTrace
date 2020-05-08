@@ -1,0 +1,14 @@
+{
+  "id": "14.11",
+  "label": "Corridor",
+  "type": "Access",
+  "map": "Satellite Vivarium",
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 17
+  }
+}

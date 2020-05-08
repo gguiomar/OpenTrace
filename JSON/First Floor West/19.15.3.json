@@ -1,0 +1,14 @@
+{
+  "id": "19.15.3",
+  "label": "Castillo Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 19,
+    "y": -20
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 2
+  }
+}

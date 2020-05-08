@@ -1,0 +1,14 @@
+{
+    "id":   "15.28",
+    "label":    "Tissue culture room",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    18,
+        "y":    -13
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    2
+    }
+}

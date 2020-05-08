@@ -1,0 +1,14 @@
+{
+  "id": "19.05",
+  "label": "Conference Room 19.05",
+  "type": "Room",
+  "map": "First Floor West",
+  "position": {
+    "x": 2,
+    "y": -32
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "G2.60A",
+  "label": "G2.60A",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 10,
+    "y": -8
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 2
+  }
+}

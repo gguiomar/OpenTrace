@@ -1,0 +1,8 @@
+{
+    "id":"19.28",
+    "label":"Chemical Hood",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":16,"y":-28},
+    "dimensions":{"x":2,"y":2}
+}

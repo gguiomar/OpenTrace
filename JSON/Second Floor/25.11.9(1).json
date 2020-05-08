@@ -1,0 +1,14 @@
+{
+  "id": "25.11.9",
+  "label": "Ribeiro",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 34,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "18.35",
+  "label": "Zach's Office",
+  "type": "Room",
+  "map": "First Floor West",
+  "position": {
+    "x": 2,
+    "y": -14
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 2
+  }
+}

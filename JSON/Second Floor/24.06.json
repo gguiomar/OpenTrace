@@ -1,0 +1,14 @@
+{
+  "id": "24.06",
+  "label": "Research and Grad Support Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 34,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

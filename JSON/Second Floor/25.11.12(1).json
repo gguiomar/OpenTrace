@@ -1,0 +1,14 @@
+{
+  "id": "25.11.12",
+  "label": "Renart",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 43,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16.35",
+  "label": "Pre-Award Office",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

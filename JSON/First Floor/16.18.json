@@ -1,0 +1,14 @@
+{
+    "id":   "16.18",
+    "label":    "Extracellular vesicles isolation room (16.18)",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    16,
+        "y":    -15
+    },
+    "dimensions":   {
+        "x":    2,
+        "y":    2
+    }
+}

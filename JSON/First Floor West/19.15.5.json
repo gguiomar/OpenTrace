@@ -1,0 +1,14 @@
+{
+  "id": "19.15.5",
+  "label": "Fior Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 19,
+    "y": -26
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "25.11.10",
+  "label": "Paton",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 37,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

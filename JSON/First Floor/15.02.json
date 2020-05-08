@@ -1,0 +1,14 @@
+{
+  "id": "15.02",
+  "label": "Mindreach",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 30,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

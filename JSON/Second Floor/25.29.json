@@ -1,0 +1,8 @@
+{
+    "id":"25.29",
+    "label":"Cold Room",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":20,"y":-12},
+    "dimensions":{"x":3,"y":1}
+}

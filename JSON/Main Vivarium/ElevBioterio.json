@@ -1,0 +1,14 @@
+{
+  "id": "ElevBioterio",
+  "label": "Elevator",
+  "type": "Access",
+  "map": "Vivarium",
+  "position": {
+    "x": 33,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 2
+  }
+}

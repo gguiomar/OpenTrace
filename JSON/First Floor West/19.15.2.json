@@ -1,0 +1,14 @@
+{
+  "id": "19.15.2",
+  "label": "Shemesh Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 19,
+    "y": -17
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 2
+  }
+}

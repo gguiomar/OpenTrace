@@ -1,0 +1,8 @@
+{
+"id":"25.09",
+"label":"Clarity Room",
+"type":"Room",
+"map":"Second Floor",
+"position":{"x":25,"y":-10},
+"dimensions":{"x":5,"y":2}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "G2.67",
+  "label": "Testing G2.67",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 6,
+    "y": -14
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 2
+  }
+}

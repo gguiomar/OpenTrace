@@ -1,0 +1,14 @@
+{
+  "id": "15.08",
+  "label": "Room 15.08",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 26,
+    "y": -7
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 3
+  }
+}

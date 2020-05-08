@@ -1,0 +1,14 @@
+{
+  "id": "16.03",
+  "label": "Lab Admin Office",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 10,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 3
+  }
+}

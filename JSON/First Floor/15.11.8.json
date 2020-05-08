@@ -1,0 +1,14 @@
+{
+  "id": "15.11.8",
+  "label": "Sánchez Danés Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 31,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

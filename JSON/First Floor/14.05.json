@@ -1,0 +1,14 @@
+{
+  "id": "14.05",
+  "label": "Computational Clinical Research",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 34,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 3
+  }
+}

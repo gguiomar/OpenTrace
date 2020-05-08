@@ -1,0 +1,14 @@
+{
+  "id": "14.26",
+  "label": "Chemical Hood and Gel Run (14.26)",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 32,
+    "y": -15
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 2
+  }
+}

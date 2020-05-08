@@ -1,0 +1,8 @@
+{
+"id":"25.08",
+"label":"Meetings Room 25.08",
+"type":"Room",
+"map":"Second Floor",
+"position":{"x":25,"y":-7},
+"dimensions":{"x":5,"y":3}
+}

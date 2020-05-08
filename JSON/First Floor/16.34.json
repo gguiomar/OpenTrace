@@ -1,0 +1,14 @@
+{
+    "id":   "16.34",
+    "label":    "Hardware platform",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    8,
+        "y":    -7
+    },
+    "dimensions":   {
+        "x":    2,
+        "y":    3
+    }
+}

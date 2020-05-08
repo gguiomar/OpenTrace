@@ -1,0 +1,8 @@
+{
+    "id":"27.01",
+    "label":"Room 27.01",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":0,"y":-12},
+    "dimensions":{"x":4,"y":3}
+}

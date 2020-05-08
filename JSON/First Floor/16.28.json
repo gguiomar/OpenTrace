@@ -1,0 +1,14 @@
+{
+    "id":   "16.28",
+    "label":    "Chemical hood / microscope (16.28)",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    6,
+        "y":    -13
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    2
+    }
+}

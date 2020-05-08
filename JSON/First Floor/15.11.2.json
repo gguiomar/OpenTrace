@@ -1,0 +1,14 @@
+{
+  "id": "15.11.2",
+  "label": "Chiappe Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 13,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

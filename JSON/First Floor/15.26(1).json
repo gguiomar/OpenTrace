@@ -1,0 +1,14 @@
+{
+    "id":   "15.26",
+    "label":    "Gel running systems, centrifuges",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    20,
+        "y":    -15
+    },
+    "dimensions":   {
+        "x":    2,
+        "y":    2
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "id":"26.33",
+    "label":"Fly dissection",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":6,"y":-10},
+    "dimensions":{"x":5,"y":2}
+}

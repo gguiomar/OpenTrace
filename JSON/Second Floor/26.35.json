@@ -1,0 +1,14 @@
+{
+  "id": "26.35",
+  "label": "Christian's Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "id":"19.35",
+    "label":"Chemical Storage",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":10,"y":-32},
+    "dimensions":{"x":2,"y":2}
+}

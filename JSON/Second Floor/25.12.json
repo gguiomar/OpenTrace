@@ -1,0 +1,14 @@
+{
+  "id": "25.12",
+  "label": "Corridor and Stairs",
+  "type": "Access",
+  "map": "Second Floor",
+  "position": {
+    "x": 0,
+    "y": -3
+  },
+  "dimensions": {
+    "x": 46,
+    "y": 4
+  }
+}

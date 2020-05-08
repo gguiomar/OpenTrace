@@ -1,0 +1,14 @@
+{
+  "id": "15.11.7",
+  "label": "Rhiner Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 28,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

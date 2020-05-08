@@ -1,0 +1,14 @@
+{
+  "id": "15.11.4",
+  "label": "Costa Silva Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 19,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

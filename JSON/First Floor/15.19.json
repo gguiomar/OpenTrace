@@ -1,0 +1,14 @@
+{
+  "id": "15.19",
+  "label": "RNA Room, Sonicator (15.19)",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 26,
+    "y": -15
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 2
+  }
+}

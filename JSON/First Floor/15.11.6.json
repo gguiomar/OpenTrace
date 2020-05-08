@@ -1,0 +1,14 @@
+{
+  "id": "15.11.6",
+  "label": "Moreno Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 25,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

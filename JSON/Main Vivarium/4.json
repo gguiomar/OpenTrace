@@ -1,0 +1,8 @@
+{
+    "id":"4",
+    "label":"Stairs",
+    "type":"Access",
+    "map":"Main Vivarium",
+    "position":{"x":17,"y":-14},
+    "dimensions":{"x":3,"y":2}
+}

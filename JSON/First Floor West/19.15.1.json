@@ -1,0 +1,14 @@
+{
+  "id": "19.15.1",
+  "label": "Maeurer Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 19,
+    "y": -14
+  },
+  "dimensions": {
+    "x": 4,
+    "y": 2
+  }
+}

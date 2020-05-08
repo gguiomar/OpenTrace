@@ -1,0 +1,14 @@
+{
+    "id":   "15.34",
+    "label":    "Meeting room",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    18,
+        "y":    -7
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    3
+    }
+}

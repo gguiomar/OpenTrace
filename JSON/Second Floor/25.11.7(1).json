@@ -1,0 +1,14 @@
+{
+  "id": "25.11.7",
+  "label": "Carey",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 28,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

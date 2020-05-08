@@ -1,0 +1,14 @@
+{
+  "id": "Elev5",
+  "label": "Elevator",
+  "type": "Access",
+  "map": "Satellite Vivarium",
+  "position": {
+    "x": 11,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 3
+  }
+}

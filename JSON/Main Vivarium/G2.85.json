@@ -1,0 +1,14 @@
+{
+  "id": "G2.85",
+  "label": "Clean Cage Storage G2.85",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 37,
+    "y": -10
+  },
+  "dimensions": {
+    "x": 7,
+    "y": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14.04",
+  "label": "Room 14.04",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 38,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "25.11.0",
+  "label": "Machens",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 7,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

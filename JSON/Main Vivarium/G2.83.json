@@ -1,0 +1,14 @@
+{
+  "id": "G2.83",
+  "label": "Cagewash G2.83 G2.84",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 37,
+    "y": -4
+  },
+  "dimensions": {
+    "x": 7,
+    "y": 6
+  }
+}

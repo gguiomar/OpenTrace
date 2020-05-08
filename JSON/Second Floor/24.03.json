@@ -1,0 +1,14 @@
+{
+  "id": "24.03",
+  "label": "Sci Comm Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 40,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

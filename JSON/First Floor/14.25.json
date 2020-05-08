@@ -1,0 +1,14 @@
+{
+  "id": "14.25",
+  "label": "Corridor",
+  "type": "Access",
+  "map": "First Floor",
+  "position": {
+    "x": 35,
+    "y": -12
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 5
+  }
+}

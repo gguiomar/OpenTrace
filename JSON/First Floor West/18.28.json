@@ -1,0 +1,8 @@
+{
+    "id":"18.28",
+    "label":"Toilet men",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":12,"y":-9},
+    "dimensions":{"x":3,"y":4}
+}

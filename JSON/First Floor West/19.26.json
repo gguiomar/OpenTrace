@@ -1,0 +1,8 @@
+{
+    "id":"19.26",
+    "label":"Multi-Spectral Microscopy",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":14,"y":-27},
+    "dimensions":{"x":2,"y":3}
+}

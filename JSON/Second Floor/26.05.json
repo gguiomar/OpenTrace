@@ -1,0 +1,14 @@
+{
+  "id": "26.05",
+  "label": "Susana's Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 8,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

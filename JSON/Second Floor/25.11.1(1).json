@@ -1,0 +1,14 @@
+{
+  "id": "25.11.1",
+  "label": "Petreanu",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 10,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

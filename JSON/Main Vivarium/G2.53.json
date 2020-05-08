@@ -1,0 +1,8 @@
+{
+    "id":"G2.53",
+    "label":"G2.53",
+    "type":"Room",
+    "map":"Main Vivarium",
+    "position":{"x":18,"y":-6},
+    "dimensions":{"x":2,"y":2}
+}

@@ -1,0 +1,14 @@
+{
+    "id":   "16.19",
+    "label":    "Odyssey, Nanosight, cytometer, plate reader (16.19)",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    14,
+        "y":    -15
+    },
+    "dimensions":   {
+        "x":    2,
+        "y":    2
+    }
+}

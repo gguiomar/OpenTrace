@@ -1,0 +1,14 @@
+{
+  "id": "24.04",
+  "label": "CR Direction Room",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 38,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

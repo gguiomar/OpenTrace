@@ -1,0 +1,14 @@
+{
+  "id": "15.11.1",
+  "label": "Flow N GWMP Benches",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 10,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

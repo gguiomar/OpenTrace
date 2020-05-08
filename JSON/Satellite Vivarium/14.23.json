@@ -1,0 +1,14 @@
+{
+  "id": "14.23",
+  "label": "Room 14.23",
+  "type": "Room",
+  "map": "Satellite Vivarium",
+  "position": {
+    "x": 8,
+    "y": -14
+  },
+  "dimensions": {
+    "x": 6,
+    "y": 3
+  }
+}

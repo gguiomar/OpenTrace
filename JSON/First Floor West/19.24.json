@@ -1,0 +1,8 @@
+{
+    "id":"19.24",
+    "label":"Preclinical MRI",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":7,"y":-30},
+    "dimensions":{"x":5,"y":2}
+}

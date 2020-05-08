@@ -1,0 +1,8 @@
+{
+    "id":"19.33",
+    "label":"Anatomic Pathology Lab",
+    "type":"Room",
+    "map":"First Floor",
+    "position":{"x":18,"y":-30},
+    "dimensions":{"x":6,"y":7}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "G2.09",
+  "label": "Women's Locker Room",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 39,
+    "y": -14
+  },
+  "dimensions": {
+    "x": 5,
+    "y": 2
+  }
+}

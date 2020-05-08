@@ -1,0 +1,8 @@
+{
+    "id":"G2.42",
+    "label":"Corridor",
+    "type":"Access",
+    "map":"Main Vivarium",
+    "position":{"x":23,"y":-5},
+    "dimensions":{"x":1,"y":8}
+}

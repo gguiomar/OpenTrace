@@ -1,0 +1,14 @@
+{
+  "id": "25.02",
+  "label": "Eugenia's Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 30,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

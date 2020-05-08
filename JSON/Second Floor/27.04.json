@@ -1,0 +1,8 @@
+{
+    "id":"27.04",
+    "label":"Kitchen",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":2,"y":-7},
+    "dimensions":{"x":2,"y":1}
+}

@@ -1,0 +1,14 @@
+{
+    "id":   "15.33",
+    "label":    "Neuropsychiatry experimental room",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    18,
+        "y":    -10
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    2
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "id":"26.09",
+    "label":"Microscopy Core",
+    "type":"Room",
+    "map":"Second Floor",
+    "position":{"x":13,"y":-10},
+    "dimensions":{"x":5,"y":2}
+}

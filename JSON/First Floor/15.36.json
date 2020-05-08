@@ -1,0 +1,14 @@
+{
+  "id": "15.36",
+  "label": "Neuropsychiatry",
+  "type": "Room",
+  "map": "First Floor",
+  "position": {
+    "x": 20,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}

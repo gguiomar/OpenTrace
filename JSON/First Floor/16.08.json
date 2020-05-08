@@ -1,0 +1,14 @@
+{
+    "id":   "16.08",
+    "label":    "Psychophysics",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    14,
+        "y":    -8
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    2
+    }
+}

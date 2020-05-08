@@ -1,0 +1,14 @@
+{
+    "id":   "17.01",
+    "label":    "Library",
+    "type": "Access",
+    "map": "First Floor",
+    "position": {
+        "x":    0,
+        "y":    -10
+    },
+    "dimensions":   {
+        "x":    6,
+        "y":    5
+    }
+}

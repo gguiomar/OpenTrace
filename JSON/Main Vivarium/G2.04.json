@@ -1,0 +1,14 @@
+{
+  "id": "G2.04",
+  "label": "Office G2.04",
+  "type": "Room",
+  "map": "Vivarium",
+  "position": {
+    "x": 48,
+    "y": -13
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 2
+  }
+}

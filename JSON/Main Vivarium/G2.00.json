@@ -1,0 +1,14 @@
+{
+  "id": "G2.00",
+  "label": "Corridor",
+  "type": "Access",
+  "map": "Vivarium",
+  "position": {
+    "x": 44,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 2
+  }
+}

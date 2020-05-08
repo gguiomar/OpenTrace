@@ -1,0 +1,14 @@
+{
+  "id": "19.03",
+  "label": "Tania's Office",
+  "type": "Room",
+  "map": "First Floor West",
+  "position": {
+    "x": 2,
+    "y": -28
+  },
+  "dimensions": {
+    "x": 3,
+    "y": 2
+  }
+}

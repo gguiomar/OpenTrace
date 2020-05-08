@@ -1,0 +1,14 @@
+{
+    "id":   "16.17",
+    "label":    "Flow cytometry platform",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    14,
+        "y":    -12
+    },
+    "dimensions":   {
+        "x":    4,
+        "y":    3
+    }
+}

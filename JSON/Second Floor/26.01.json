@@ -1,0 +1,14 @@
+{
+  "id": "26.01",
+  "label": "Mike's Office",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 16,
+    "y": 0
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 3
+  }
+}

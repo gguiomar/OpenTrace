@@ -1,0 +1,14 @@
+{
+    "id":   "15.29",
+    "label":    "Common fridges, freezers",
+    "type": "Room",
+    "map": "First Floor",
+    "position": {
+        "x":    20,
+        "y":    -12
+    },
+    "dimensions":   {
+        "x":    2,
+        "y":    1
+    }
+}

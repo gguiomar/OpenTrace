@@ -1,0 +1,14 @@
+{
+  "id": "25.11.8",
+  "label": "Polavieja",
+  "type": "Room",
+  "map": "Second Floor",
+  "position": {
+    "x": 31,
+    "y": -19
+  },
+  "dimensions": {
+    "x": 2,
+    "y": 4
+  }
+}
